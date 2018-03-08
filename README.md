@@ -27,4 +27,10 @@
 |  5  | r-x |
 |  6  | rw- |
 |  7  | rwx |
-## 就是这样啦
+## 就是这样啦  
+| Name | Academy | score | 
+| - | :-: | -: | 
+| Harry Potter | Gryffindor| 90 | 
+| Hermione Granger | Gryffindor | 100 | 
+| Draco Malfoy | Slytherin | 90 |
+
