@@ -17,11 +17,6 @@
    * 前面说777权限，一个7就代表一个rwx
  ### 那么其他数字都代表啥呢
    * 以下是我整理出的数字与字母对照表  
-   | Name | Academy | score | 
-| - | :-: | -: | 
-| Harry Potter | Gryffindor| 90 | 
-| Hermione Granger | Gryffindor | 100 | 
-| Draco Malfoy | Slytherin | 90 |
 
 | 数字 | 字母 |
 | :-: | :-: |
